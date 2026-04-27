@@ -1,6 +1,7 @@
 # 🚀 AI/ML Portfolio — Viswa Musunuri
 
 Vision-Driven AI Leader | Driving Digital Transformation in PLM, CAD/CAE | R&D Simulation | FEM / CFD |AI & ML Engineering Leader | MLOps & Distributed Architectures | Driving Enterprise-Scale AI 
+Building end-to-end AI systems across Machine Learning, Deep Learning, and Generative AI.
 
 End-to-end AI/ML systems covering:
 - Machine Learning
@@ -10,28 +11,32 @@ End-to-end AI/ML systems covering:
 
 ---
 
-## 🔥 Projects
+## 🔥 Featured Projects
 
 ### 🏦 AI Loan Default Prediction (Deep Learning)
-- TensorFlow ANN model
-- Risk segmentation system
-- Streamlit app
+- TensorFlow/Keras ANN model
+- Risk segmentation system (Low / Medium / High)
+- Streamlit app for real-time prediction
+
+📊 Accuracy: ~91%
 
 👉 https://github.com/Viswamusunuri9/ai-loan-default-dl-system
 
 ---
 
-### 📊 Marketing Campaign Intelligence System
+### 📊 Marketing Campaign Intelligence
 - XGBoost + feature engineering
-- Customer targeting system
+- Customer response prediction system
+- Business-focused ML pipeline
 
 👉 (https://github.com/Viswamusunuri9/ai-marketing-campaign-system)
 
 ---
 
-### 🤖 GenAI HR Assistant
-- RAG system using OpenAI + LangChain
-- Document-based Q&A
+### 🤖 GenAI HR Assistant (RAG System)
+- Document-based Q&A using LLMs
+- LangChain + OpenAI integration
+- Semantic retrieval with vector database
 
 👉 https://github.com/Viswamusunuri9/genai-hr-assistant
 
@@ -63,12 +68,12 @@ End-to-end AI/ML systems covering:
 
 ## 🧠 Skills Demonstrated
 
-- Machine Learning
+- Machine Learning (Classification, Clustering)
 - Deep Learning (TensorFlow/Keras)
-- Generative AI (RAG systems)
-- Feature Engineering
-- Model Deployment (Streamlit)
+- Generative AI (RAG, LLMs)
+- Feature Engineering & Model Optimization
 - End-to-End ML Systems
+- Streamlit Deployment
 
 ---
 
