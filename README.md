@@ -82,7 +82,7 @@ End-to-end AI/ML systems covering:
 I build intelligent systems that bridge research, engineering, and enterprise-scale AI transformation.
 With over 15 years of experience across mechanical, software, and AI ecosystems, I’ve led global teams to design and operationalize machine learning pipelines, Generative AI frameworks, and distributed MLOps platforms that deliver measurable business impact.
 
-At NTT DATA, I’ve engineered automation and ML infrastructure for enterprise clients like Mercedes-Benz, Siemens, and HyAxiom — driving efficiency gains of 20–25% while embedding AI into the very fabric of product development and simulation intelligence.
+I’ve engineered automation and ML infrastructure for enterprise clients like Mercedes-Benz, Siemens, and HyAxiom — driving efficiency gains of 20–25% while embedding AI into the very fabric of product development and simulation intelligence.
 
 My work centers on connecting deep technical fluency with systems thinking — integrating neural networks, Python-based architectures, and cloud-native orchestration (Databricks, Airflow, MLflow, Kubernetes) into production-grade solutions.
 Equally, I’m passionate about mentoring engineers, building AI governance frameworks, and advancing responsible innovation that scales sustainably.
